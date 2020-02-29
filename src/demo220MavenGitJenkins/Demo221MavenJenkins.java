@@ -1,4 +1,4 @@
-package demo220MavenJenkins;
+package demo220MavenGitJenkins;
 
 public class Demo221MavenJenkins {
 
